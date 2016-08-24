@@ -18,9 +18,9 @@ header h1 {
   margin: 0;
 }
 
-header nav {
-  display: flex;
-  justify-content: flex-end;
+navbar navbar-inverse {
+  background-color: blue;
+  
 }
 
 header p {
